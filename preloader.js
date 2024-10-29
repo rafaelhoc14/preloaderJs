@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://jvsc99.github.io/preloaderJs/imagem.svg';
+svgImage.src = 'https://rafaelhoc14.github.io/preloaderJs/LogoPrincipal-removebg-preview.png';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
